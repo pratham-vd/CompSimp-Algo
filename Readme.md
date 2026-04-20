@@ -1,6 +1,4 @@
-================================================================================
                         COMPSIMP TRADER BOT - USER MANUAL
-================================================================================
 
 This manual provides a detailed explanation of the `compsimp_trader_bot.py` script.
 It explains configuration, trading logic, risk management, and execution details.
